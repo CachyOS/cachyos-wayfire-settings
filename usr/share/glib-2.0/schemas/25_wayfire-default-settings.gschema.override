@@ -1,0 +1,57 @@
+[org.freedesktop.Tracker.Extract]
+sched-idle='always'
+
+[org.freedesktop.Tracker.Miner.Files]
+sched-idle='always'
+index-on-battery=false
+
+[org.gnome.desktop.datetime]
+automatic-timezone=true
+
+[org.gnome.desktop.interface]
+clock-show-date=true
+enable-animations=true
+gtk-theme='cachyos-nord'
+icon-theme='char-white'
+show-battery-percentage=true
+document-font-name='Fira Sans 11'
+font-name='Fira Sans 11'
+monospace-font-name='FantasqueSansMono Nerd Font Mono 10'
+
+[org.gnome.desktop.peripherals.keyboard]
+numlock-state=true
+
+[org.gnome.settings-daemon.peripherals.touchpad]
+horiz-scroll-enabled=true
+natural-scroll=false
+scroll-method='two-finger-scrolling'
+
+[org.gnome.desktop.peripherals.touchpad]
+natural-scroll=false
+tap-to-click=true
+edge-scrolling-enabled=true
+
+[org.gnome.desktop.wm.preferences]
+button-layout='appmenu:minimize,maximize,close'
+titlebar-font='Fira Sans Bold 11'
+
+[org.gtk.Settings.FileChooser]
+sort-directories-first=true
+
+[org.gnome.nautilus.preferences]
+default-folder-viewer='icon-view'
+show-create-link=true
+
+[org.gnome.gedit.preferences.editor]
+auto-indent=true
+bracket-matching=true
+display-line-numbers=true
+editor-font='FantasqueSansMono Nerd Font Mono 12'
+scheme='oblivion'
+tabs-size=4
+use-default-font=false
+wrap-last-split-mode='word'
+
+[org.gnome.Terminal.Legacy.Profile]
+use-transparent-background=true
+

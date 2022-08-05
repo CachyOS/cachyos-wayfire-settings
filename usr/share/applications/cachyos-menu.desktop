@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+TryExec=nwg-drawer
+Exec=nwg-drawer
+Icon=cachyos-start
+Terminal=false
+Categories=System
+Name=CachyOS Menu
+GenericName=Menu
+NoDisplay=true
+Comment=A menu for CachyOS
